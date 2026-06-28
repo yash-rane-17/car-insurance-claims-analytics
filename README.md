@@ -2,7 +2,7 @@
 
 ![Tableau](https://img.shields.io/badge/BI_Tool-Tableau-orange.svg)
 ![Python](https://img.shields.io/badge/Language-Python_/_Pandas-blue.svg)
-![Analytics](https://img.shields.io/badge/Domain-Risk_&_Insurance-green.svg)
+![Analytics](https://img.shields.io/badge/Domain-Risk_and_Insurance-green.svg)
 
 ## 📌 Project Overview and Strategic Objective
 In the auto insurance domain, financial sustainability relies heavily on accurately anticipating claims, optimizing premium rates, and mitigating risk exposure. Unchecked claim frequencies and unpredictable payout severities can severely impact an insurance provider's bottom line.
