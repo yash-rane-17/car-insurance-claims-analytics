@@ -65,4 +65,4 @@ The portfolio analysis is split into a professional 5-stage dashboard layout ins
 2. Ensure you have **Tableau Desktop** or **Tableau Public** installed.
 3. Open `Dashboards/Car_Insurance_Claims.twb` to explore the interactive dashboards, filters, and analytical actions.
 OR
-visit `https://public.tableau.com/app/profile/yash.rane2721/viz/Car_Insurance_Claims_17723885998140/CarInsuranceClaims`.
+visit https://public.tableau.com/app/profile/yash.rane2721/viz/Car_Insurance_Claims_17723885998140/CarInsuranceClaims.
